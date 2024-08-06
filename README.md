@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=danielfonsecaa" alt="danielfonsecaa" /></a> </p>
 
-- 🌱 I’m currently learning **JavaScript && TypeScript**
+- 🌱 I’m currently learning **Java && JavaScript && TypeScript**
 
 - 💬 Ask me about **Java || JavaScript || TypeScript**
 
