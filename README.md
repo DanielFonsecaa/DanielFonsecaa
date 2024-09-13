@@ -1,3 +1,4 @@
+<div align="center">
 # 💫 About Me:
 🔭 I’m currently working on a secret project<br>👯 I’m looking to collaborate on chess app<br>🌱 I’m currently learning next.js and react<br>⚡ Fun fact - Chess Enthusiast / Continuous Learner
 
@@ -24,4 +25,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Danielfonsecaa&icon=6&color=5)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
