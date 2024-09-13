@@ -1,5 +1,5 @@
 <div align="center">
-# 💫 About Me:
+ 💫 About Me:
 🔭 I’m currently working on a secret project<br>👯 I’m looking to collaborate on chess app<br>🌱 I’m currently learning next.js and react<br>⚡ Fun fact - Chess Enthusiast / Continuous Learner
 
 
