@@ -121,10 +121,13 @@
 <h3 align="center">🚀 My Projects at 42 Porto</h3>
 <h4 align="center">Milestone 0</h4>
 
-<div align="center">
-
-![libftm](https://github.com/user-attachments/assets/0f9131f8-f78f-4b9a-8954-6a7eee0874f6)
+  <div align="center">
+  <a href="https://github.com/DanielFonsecaa/libft" target="_blank">
+    <img src="https://github.com/user-attachments/assets/0f9131f8-f78f-4b9a-8954-6a7eee0874f6" alt="ft_printf" />
+  </a>
 </div>
+
+
 
 <h4 align="center">Milestone 1</h4>
 
