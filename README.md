@@ -127,8 +127,6 @@
   </a>
 </div>
 
-
-
 <h4 align="center">Milestone 1</h4>
 
 <div align="center">
@@ -139,6 +137,51 @@
     <img src="https://github.com/user-attachments/assets/3f3d64d1-86a8-498e-b18d-bdeae55f2a86" alt="ft_printf" />
   </a>
 </div>
+<br>
+<details align="center">
+<summary><h3>More information about 42 projects</h3></summary>
+  
+<h3 align="center">C PROJECTS</h3>
+<div align="center">
+	
+| C Project                                                                                     | Grade                                                             | Evaluation Information           |
+| :-------------------------------------------------------------------------------------------- | :---------------------------------------------------------------- | :------------------------------- |
+| [Libft](https://github.com/DanielFonsecaa/libft) | <img src="https://img.shields.io/badge/125%20%2F%20100%20%E2%98%85-sucess"/>  | `3 peers` `30 mins` `moulinette` |
+| [GetNexLine](https://github.com/DanielFonsecaa/get_next_line) | <img src="https://img.shields.io/badge/112%20%2F%20100%20%E2%98%85-sucess"/>  | `3 peers` `30 mins` `moulinette` |
+| [Printf](https://github.com/DanielFonsecaa/printf) | <img src="https://img.shields.io/badge/100%20%2F%20100%20%E2%98%85-sucess"/>  | `3 peers` `30 mins` `moulinette` |
+
+</div>
+
+<h3 align="center">PISCINE PROJECTS</h3>
+<div align="center">
+	
+| Shell Project                                                                                         | Grade                                                             | Evaluation Information           |
+| :---------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------- | :------------------------------- |
+| [Piscine Shell 00](https://github.com/DanielFonsecaa/42piscine) | <img src="https://img.shields.io/badge/100%20%2F%20100-success"/> | `2 peers` `15 mins` `moulinette` |
+| [Piscine Shell 01](https://github.com/DanielFonsecaa/42piscine) | <img src="https://img.shields.io/badge/100%20%2F%20100-success"/> | `2 peers` `15 mins` `moulinette` |
+
+| C Pscine Project                                                                                     | Grade                                                             | Evaluation Information           |
+| :-------------------------------------------------------------------------------------------- | :---------------------------------------------------------------- | :------------------------------- |
+| [Piscine C 00](https://github.com/DanielFonsecaa/42piscine) | <img src="https://img.shields.io/badge/85%20%2F%20100-success"/>  | `2 peers` `15 mins` `moulinette` |
+| [Piscine C 01](https://github.com/DanielFonsecaa/42piscine) | <img src="https://img.shields.io/badge/100%20%2F%20100-success"/> | `2 peers` `15 mins` `moulinette` |
+| [Piscine C 02](https://github.com/DanielFonsecaa/42piscine) | <img src="https://img.shields.io/badge/75%20%2F%20100-success"/>  | `2 peers` `15 mins` `moulinette` |
+| [Piscine C 03](https://github.com/DanielFonsecaa/42piscine) | <img src="https://img.shields.io/badge/75%20%2F%20100-success"/> | `2 peers` `15 mins` `moulinette` |
+| [Piscine C 04](https://github.com/DanielFonsecaa/42piscine) | <img src="https://img.shields.io/badge/100%20%2F%20100-success"/>  | `2 peers` `15 mins` `moulinette` |
+| [Piscine C 05](https://github.com/DanielFonsecaa/42piscine) | <img src="https://img.shields.io/badge/80%20%2F%20100-success"/>  | `2 peers` `15 mins` `moulinette` |
+| [Piscine C 06](https://github.com/DanielFonsecaa/42piscine) | <img src="https://img.shields.io/badge/100%20%2F%20100-success"/> | `2 peers` `15 mins` `moulinette` |
+| [Piscine C 07](https://github.com/DanielFonsecaa/42piscine) | <img src="https://img.shields.io/badge/80%20%2F%20100-success"/>  | `2 peers` `15 mins` `moulinette` |
+| [Piscine C 08](https://github.com/DanielFonsecaa/42piscine) | <img src="https://img.shields.io/badge/100%20%2F%20100-success"/> | `2 peers` `15 mins` `moulinette` |
+
+| Rush Pscine Project                                                                                        | Grade                                                              | Evaluation Information  |
+| :-------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------- | :---------------------- |
+| [Piscine Rush 00](https://github.com/DanielFonsecaa/42piscine) | <img src="https://img.shields.io/badge/score-00%20%2F%20100-red"/> | `1 lifeguard` `30 mins` |
+
+</div>
+	
+</details>
+
+<br>
+<br>
 
 <div align="center">
  
