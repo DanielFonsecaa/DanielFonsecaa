@@ -1,9 +1,14 @@
-<h1 align="left">Hi 👋! My name is Daniel and I'm a passionate developer from Portugal</h1>
+<h1 align="left">Hey 👋 What's up?</h1>
 
+###
+
+<p align="left">My name is Daniel Fonseca and I'm a  Software Developer</p>
+
+###
 
 <br clear="both">
 
-<h3 align="center">👨🏼‍💻 Tech Stack</h3>
+<h3 align="center">👨🏼‍💻 My Tech Stack</h3>
 
 
 
@@ -75,7 +80,7 @@
 
 <br clear="both">
 
-<h3 align="center">🌐 Socials</h3>
+<h3 align="center">🌐 My Socials</h3>
 
 
 <br clear="both">
@@ -94,7 +99,7 @@
 
 <br clear="both">
 
-<h3 align="center">📈 GitHub Status</h3>
+<h3 align="center">📈 My GitHub Status</h3>
 
 <br clear="both">
 
@@ -107,10 +112,29 @@
 
 <img src="https://raw.githubusercontent.com/danielfonsecaa/danielfonsecaa/output/snake.svg" alt="Snake animation" />
 
-<h3 align="center">🏆 GitHub Trophies</h3>
+<h3 align="center">🏆 My GitHub Trophies</h3>
 <div align="center">
  
- ![](https://github-profile-trophy.vercel.app/?username=Danielfonsecaa&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=-1).
+ ![](https://github-profile-trophy.vercel.app/?username=Danielfonsecaa&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=-1)
+</div>
+
+<h3 align="center">🚀 My Projects at 42 Porto</h3>
+<h4 align="center">Milestone 0</h4>
+
+<div align="center">
+
+![libftm](https://github.com/user-attachments/assets/0f9131f8-f78f-4b9a-8954-6a7eee0874f6)
+</div>
+
+<h4 align="center">Milestone 1</h4>
+
+<div align="center">
+  <a href="https://github.com/DanielFonsecaa/get_next_line" target="_blank">
+    <img src="https://github.com/user-attachments/assets/7eec8a00-df10-4d70-9836-552cb0f3aaad" alt="get_next_line" />
+  </a>
+  <a href="https://github.com/DanielFonsecaa/printf" target="_blank">
+    <img src="https://github.com/user-attachments/assets/3f3d64d1-86a8-498e-b18d-bdeae55f2a86" alt="ft_printf" />
+  </a>
 </div>
 
 <div align="center">
