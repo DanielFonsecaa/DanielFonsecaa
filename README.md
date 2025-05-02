@@ -157,8 +157,8 @@
 	
 | Shell Project                                                                                         | Grade                                                             | Evaluation Information           |
 | :---------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------- | :------------------------------- |
-| [Piscine Shell 00](https://github.com/DanielFonsecaa/42piscine) | <img src="https://img.shields.io/badge/100%20%2F%20100-success"/> | `2 peers` `15 mins` `moulinette` |
-| [Piscine Shell 01](https://github.com/DanielFonsecaa/42piscine) | <img src="https://img.shields.io/badge/100%20%2F%20100-success"/> | `2 peers` `15 mins` `moulinette` |
+| [Piscine Shell 00](https://github.com/DanielFonsecaa/42piscine) | <img src="https://img.shields.io/badge/85%20%2F%20100-success"/> | `2 peers` `15 mins` `moulinette` |
+| [Piscine Shell 01](https://github.com/DanielFonsecaa/42piscine) | <img src="https://img.shields.io/badge/70%20%2F%20100-success"/> | `2 peers` `15 mins` `moulinette` |
 
 | C Pscine Project                                                                                     | Grade                                                             | Evaluation Information           |
 | :-------------------------------------------------------------------------------------------- | :---------------------------------------------------------------- | :------------------------------- |
