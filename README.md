@@ -97,12 +97,6 @@
   </a>
 </div>
 
-<br>
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=danielfonsecaa.danielfonsecaa&left_color=blue&right_color=crimson&left_text=Visitors"  />
-</div>
-
 
 
 <br clear="both">
