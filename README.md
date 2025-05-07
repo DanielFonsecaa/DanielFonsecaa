@@ -97,6 +97,14 @@
   </a>
 </div>
 
+<br>
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=danielfonsecaa.danielfonsecaa&left_color=blue&right_color=crimson&left_text=Visitors"  />
+</div>
+
+
+
 <br clear="both">
 
 <h3 align="center">📈 My GitHub Status</h3>
@@ -136,11 +144,18 @@
   <a href="https://github.com/DanielFonsecaa/printf" target="_blank">
     <img src="https://github.com/user-attachments/assets/3f3d64d1-86a8-498e-b18d-bdeae55f2a86" alt="ft_printf" />
   </a>
+ </a>
+  <a href="https://github.com/DanielFonsecaa/Born2BeRoot" target="_blank">
+    <img src="https://github.com/user-attachments/assets/714acb59-4011-469e-9127-2abfa9379501" alt="ft_printf" />
+  </a>
+ 
 </div>
+
 <br>
+
 <details align="center">
-<summary><h3>More information about 42 projects</h3></summary>
-  
+<summary align="center">Click here for more information about 42 projects</summary>
+
 <h3 align="center">C PROJECTS</h3>
 <div align="center">
 	
@@ -149,6 +164,7 @@
 | [Libft](https://github.com/DanielFonsecaa/libft) | <img src="https://img.shields.io/badge/125%20%2F%20100%20%E2%98%85-sucess"/>  | `3 peers` `30 mins` `moulinette` |
 | [GetNexLine](https://github.com/DanielFonsecaa/get_next_line) | <img src="https://img.shields.io/badge/112%20%2F%20100%20%E2%98%85-sucess"/>  | `3 peers` `30 mins` `moulinette` |
 | [Printf](https://github.com/DanielFonsecaa/printf) | <img src="https://img.shields.io/badge/100%20%2F%20100%20%E2%98%85-sucess"/>  | `3 peers` `30 mins` `moulinette` |
+| [Born2BeRoot](https://github.com/DanielFonsecaa/Born2BeRoot) | <img src="https://img.shields.io/badge/100%20%2F%20100%20%E2%98%85-sucess"/>  | `3 peers` `30 mins` |
 
 </div>
 
@@ -171,10 +187,6 @@
 | [Piscine C 06](https://github.com/DanielFonsecaa/42piscine) | <img src="https://img.shields.io/badge/100%20%2F%20100-success"/> | `2 peers` `15 mins` `moulinette` |
 | [Piscine C 07](https://github.com/DanielFonsecaa/42piscine) | <img src="https://img.shields.io/badge/80%20%2F%20100-success"/>  | `2 peers` `15 mins` `moulinette` |
 | [Piscine C 08](https://github.com/DanielFonsecaa/42piscine) | <img src="https://img.shields.io/badge/100%20%2F%20100-success"/> | `2 peers` `15 mins` `moulinette` |
-
-| Rush Pscine Project                                                                                        | Grade                                                              | Evaluation Information  |
-| :-------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------- | :---------------------- |
-| [Piscine Rush 00](https://github.com/DanielFonsecaa/42piscine) | <img src="https://img.shields.io/badge/score-00%20%2F%20100-red"/> | `1 lifeguard` `30 mins` |
 
 </div>
 	
