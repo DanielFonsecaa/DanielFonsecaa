@@ -165,7 +165,7 @@
 | [GetNexLine](https://github.com/DanielFonsecaa/get_next_line) | <img src="https://img.shields.io/badge/112%20%2F%20100%20%E2%98%85-sucess"/>  | `3 peers` `30 mins` `moulinette` |
 | [Printf](https://github.com/DanielFonsecaa/printf) | <img src="https://img.shields.io/badge/100%20%2F%20100%20%E2%98%85-sucess"/>  | `3 peers` `30 mins` `moulinette` |
 | [Born2BeRoot](https://github.com/DanielFonsecaa/Born2BeRoot) | <img src="https://img.shields.io/badge/100%20%2F%20100%20%E2%98%85-sucess"/>  | `3 peers` `30 mins` |
-| [Born2BeRoot](https://github.com/DanielFonsecaa/So-long-42) | <img src="https://img.shields.io/badge/124%20%2F%20100%20%E2%98%85-sucess"/>  | `3 peers` `30 mins`  |
+| [So_long](https://github.com/DanielFonsecaa/So-long-42) | <img src="https://img.shields.io/badge/124%20%2F%20100%20%E2%98%85-sucess"/>  | `3 peers` `30 mins`  |
 </div>
 
 <h3 align="center">PISCINE PROJECTS</h3>
