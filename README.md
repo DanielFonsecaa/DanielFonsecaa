@@ -133,14 +133,14 @@
 
 <div align="center">
   <a href="https://github.com/DanielFonsecaa/get_next_line" target="_blank">
-    <img src="https://github.com/user-attachments/assets/7eec8a00-df10-4d70-9836-552cb0f3aaad" alt="get_next_line" />
+    <img src="https://github.com/user-attachments/assets/7eec8a00-df10-4d70-9836-552cb0f3aaad" alt="get_next_line badge" />
   </a>
   <a href="https://github.com/DanielFonsecaa/printf" target="_blank">
-    <img src="https://github.com/user-attachments/assets/3f3d64d1-86a8-498e-b18d-bdeae55f2a86" alt="ft_printf" />
+    <img src="https://github.com/user-attachments/assets/3f3d64d1-86a8-498e-b18d-bdeae55f2a86" alt="ft_printf badge" />
   </a>
  </a>
   <a href="https://github.com/DanielFonsecaa/Born2BeRoot" target="_blank">
-    <img src="https://github.com/user-attachments/assets/714acb59-4011-469e-9127-2abfa9379501" alt="ft_printf" />
+    <img src="https://github.com/user-attachments/assets/714acb59-4011-469e-9127-2abfa9379501" alt="born too be root badge" />
   </a>
  
 </div>
@@ -148,11 +148,15 @@
 <h4 align="center">Milestone 2</h4>
 <div align="center">
   <a href="https://github.com/DanielFonsecaa/So-long-42" target="_blank">
-    <img src="https://github.com/user-attachments/assets/44d134a2-1f0b-4473-afdd-ba9ec909b5a8" alt="get_next_line" />
+    <img src="https://github.com/user-attachments/assets/44d134a2-1f0b-4473-afdd-ba9ec909b5a8" alt="so long badge" />
   </a>
    <a href="https://github.com/DanielFonsecaa/Push_swap-42" target="_blank">
-    <img src="https://github.com/user-attachments/assets/0528f99a-4570-46b8-80b1-6b8af3df8cd8" alt="ft_printf" />
+    <img src="https://github.com/user-attachments/assets/0528f99a-4570-46b8-80b1-6b8af3df8cd8" alt="push swap badge" />
   </a>
+ <a href="https://github.com/DanielFonsecaa/Pipex-42" target="_blank">
+    <img src="https://github.com/user-attachments/assets/6ac48d02-1374-4a69-92c0-ada8e9cd82d4" alt="pipex badge" />
+  </a>
+
 </div>
 <br>
 
@@ -170,15 +174,12 @@
 | [Born2BeRoot](https://github.com/DanielFonsecaa/Born2BeRoot) | <img src="https://img.shields.io/badge/100%20%2F%20100%20%E2%98%85-sucess"/>  | `3 peers` `30 mins` |
 | [So_long](https://github.com/DanielFonsecaa/So-long-42) | <img src="https://img.shields.io/badge/124%20%2F%20100%20%E2%98%85-sucess"/>  | `3 peers` `30 mins`  |
 | [Push_Swap](https://github.com/DanielFonsecaa/Push_swap-42) | <img src="https://img.shields.io/badge/84%20%2F%20100%20%E2%98%85-sucess"/>  | `3 peers` `30 mins`  |
+| [Pipex](https://github.com/DanielFonsecaa/Pipex-42) | <img src="https://img.shields.io/badge/125%20%2F%20100%20%E2%98%85-sucess"/>  | `3 peers` `30 mins`  |
+
 </div>
 
 <h3 align="center">PISCINE PROJECTS</h3>
 <div align="center">
-	
-| Shell Project                                                                                         | Grade                                                             | Evaluation Information           |
-| :---------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------- | :------------------------------- |
-| [Piscine Shell 00](https://github.com/DanielFonsecaa/42piscine) | <img src="https://img.shields.io/badge/85%20%2F%20100-success"/> | `2 peers` `15 mins` `moulinette` |
-| [Piscine Shell 01](https://github.com/DanielFonsecaa/42piscine) | <img src="https://img.shields.io/badge/70%20%2F%20100-success"/> | `2 peers` `15 mins` `moulinette` |
 
 | C Pscine Project                                                                                     | Grade                                                             | Evaluation Information           |
 | :-------------------------------------------------------------------------------------------- | :---------------------------------------------------------------- | :------------------------------- |
