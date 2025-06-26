@@ -1,8 +1,4 @@
-<h1 align="left">Hey 👋 What's up?</h1>
-
-###
-
-<p align="left">My name is Daniel Fonseca and I'm a  Software Developer</p>
+![image](https://github.com/user-attachments/assets/9308a2c1-453a-4091-a54e-fdc87aebd9ba)
 
 ###
 
