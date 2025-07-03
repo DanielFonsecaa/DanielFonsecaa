@@ -5,75 +5,52 @@
 <br clear="both">
 
 <h3 align="center">👨🏼‍💻 My Tech Stack</h3>
-
-
-
-<br clear="both">
-
+<!-- Programming Languages -->
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=css" height="47" alt="css3 logo"  />
+  <img src="https://skillicons.dev/icons?i=c" height="47" alt="C logo" />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=html" height="47" alt="html5 logo"  />
+  <img src="https://skillicons.dev/icons?i=java" height="47" alt="Java logo" />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=js" height="47" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="47" alt="JavaScript logo" />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=ts" height="47" alt="typescript logo"  />
+  <img src="https://skillicons.dev/icons?i=ts" height="47" alt="TypeScript logo" />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=react" height="47" alt="react logo"  />
+<!-- Frontend Technologies -->
+  <img src="https://skillicons.dev/icons?i=html" height="47" alt="HTML logo" />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=bash" height="47" alt="bash logo"  />
+  <img src="https://skillicons.dev/icons?i=css" height="47" alt="CSS logo" />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="47" alt="bootstrap logo"  />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="47" alt="TailwindCSS logo" />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=c" height="47" alt="c logo"  />
+  <img src="https://skillicons.dev/icons?i=react" height="47" alt="React logo" />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=docker" height="47" alt="docker logo"  />
+  <img src="https://skillicons.dev/icons?i=jquery" height="47" alt="jQuery logo" />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=express" height="47" alt="express logo"  />
+<!-- Backend Technologies -->
+  <img src="https://skillicons.dev/icons?i=nodejs" height="47" alt="Node.js logo" />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=git" height="47" alt="git logo"  />
+  <img src="https://skillicons.dev/icons?i=express" height="47" alt="Express.js logo" />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=java" height="47" alt="java logo"  />
+  <img src="https://skillicons.dev/icons?i=spring" height="47" alt="Spring Framework logo" />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=jquery" height="47" alt="jquery logo"  />
+<!-- Databases -->
+  <img src="https://skillicons.dev/icons?i=mysql" height="47" alt="MySQL logo" />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=linux" height="47" alt="linux logo"  />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="47" alt="MongoDB logo" />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="47" alt="mongodb logo"  />
+<!-- Tools & Platforms -->
+  <img src="https://skillicons.dev/icons?i=docker" height="47" alt="Docker logo" />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="47" alt="nodejs logo"  />
+  <img src="https://skillicons.dev/icons?i=git" height="47" alt="Git logo" />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=spring" height="47" alt="spring logo"  />
+  <img src="https://skillicons.dev/icons?i=postman" height="47" alt="Postman logo" />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="47" alt="tailwindcss logo"  />
+<!-- Editors / IDEs -->
+  <img src="https://skillicons.dev/icons?i=vim" height="47" alt="Vim logo" />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=vim" height="47" alt="vim logo"  />
+  <img src="https://skillicons.dev/icons?i=idea" height="47" alt="IntelliJ IDEA logo" />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=maven" height="47" alt="apachemaven logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=cs" height="47" alt="csharp logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=hibernate" height="47" alt="hibernate logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="47" alt="mysql logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=neovim" height="47" alt="neovim logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=netlify" height="47" alt="netlify logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="47" alt="nextjs logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=postman" height="47" alt="postman logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="47" alt="vercel logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=vite" height="47" alt="vite logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=vue" height="47" alt="vuejs logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=idea" height="47" alt="intellijidea logo"  />
 </div>
-
 <br clear="both">
 
 <h3 align="center">🌐 My Socials</h3>
