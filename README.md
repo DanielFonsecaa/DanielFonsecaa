@@ -131,6 +131,14 @@
   </a>
 
 </div>
+
+<h4 align="center">Milestone 3</h4>
+<div align="center">
+  <a href="https://github.com/DanielFonsecaa/Mini-Shell-42" target="_blank">
+    <img src="https://github.com/user-attachments/assets/92dc0700-e072-4737-9fbe-41b15b4909c6" alt="minishell badge" />
+  </a>
+</div>
+
 <br>
 
 <details align="center">
@@ -144,10 +152,11 @@
 | [Libft](https://github.com/DanielFonsecaa/libft) | <img src="https://img.shields.io/badge/125%20%2F%20100%20%E2%98%85-sucess"/>  | `3 peers` `30 mins` `moulinette` |
 | [GetNexLine](https://github.com/DanielFonsecaa/get_next_line) | <img src="https://img.shields.io/badge/112%20%2F%20100%20%E2%98%85-sucess"/>  | `3 peers` `30 mins` `moulinette` |
 | [Printf](https://github.com/DanielFonsecaa/printf) | <img src="https://img.shields.io/badge/100%20%2F%20100%20%E2%98%85-sucess"/>  | `3 peers` `30 mins` `moulinette` |
-| [Born2BeRoot](https://github.com/DanielFonsecaa/Born2BeRoot) | <img src="https://img.shields.io/badge/100%20%2F%20100%20%E2%98%85-sucess"/>  | `3 peers` `30 mins` |
+| [Born2BeRoot](https://github.com/DanielFonsecaa/Born2BeRoot) | <img src="https://img.shields.io/badge/100%20%2F%20100%20%E2%98%85-sucess"/>  | `3 peers` `1 hour` |
 | [So_long](https://github.com/DanielFonsecaa/So-long-42) | <img src="https://img.shields.io/badge/124%20%2F%20100%20%E2%98%85-sucess"/>  | `3 peers` `30 mins`  |
 | [Push_Swap](https://github.com/DanielFonsecaa/Push_swap-42) | <img src="https://img.shields.io/badge/84%20%2F%20100%20%E2%98%85-sucess"/>  | `3 peers` `30 mins`  |
 | [Pipex](https://github.com/DanielFonsecaa/Pipex-42) | <img src="https://img.shields.io/badge/125%20%2F%20100%20%E2%98%85-sucess"/>  | `3 peers` `30 mins`  |
+| [Minishell](https://github.com/DanielFonsecaa/Mini-Shell-42) | <img src="https://img.shields.io/badge/100%20%2F%20100%20%E2%98%85-sucess"/>  | `3 peers` `1 hour`  |
 
 </div>
 
