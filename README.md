@@ -137,6 +137,9 @@
   <a href="https://github.com/DanielFonsecaa/Mini-Shell-42" target="_blank">
     <img src="https://github.com/user-attachments/assets/92dc0700-e072-4737-9fbe-41b15b4909c6" alt="minishell badge" />
   </a>
+  <a href="https://github.com/DanielFonsecaa/Philosophers-42" target="_blank">
+    <img src="https://github.com/user-attachments/assets/85fa7ff1-f23a-4716-a874-bcc8c30ffa0b" alt="philosophers badge" />
+  </a>
 </div>
 
 <br>
@@ -157,6 +160,7 @@
 | [Push_Swap](https://github.com/DanielFonsecaa/Push_swap-42) | <img src="https://img.shields.io/badge/84%20%2F%20100%20%E2%98%85-sucess"/>  | `3 peers` `30 mins`  |
 | [Pipex](https://github.com/DanielFonsecaa/Pipex-42) | <img src="https://img.shields.io/badge/125%20%2F%20100%20%E2%98%85-sucess"/>  | `3 peers` `30 mins`  |
 | [Minishell](https://github.com/DanielFonsecaa/Mini-Shell-42) | <img src="https://img.shields.io/badge/100%20%2F%20100%20%E2%98%85-sucess"/>  | `3 peers` `1 hour`  |
+| [Philosophers](https://github.com/DanielFonsecaa/Philosophers-42) | <img src="https://img.shields.io/badge/100%20%2F%20100%20%E2%98%85-sucess"/>  | `3 peers` `30 mins`  |
 
 </div>
 
