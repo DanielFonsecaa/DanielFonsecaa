@@ -24,31 +24,16 @@
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=react" height="47" alt="React logo" />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=jquery" height="47" alt="jQuery logo" />
-  <img width="15" />
 <!-- Backend Technologies -->
   <img src="https://skillicons.dev/icons?i=nodejs" height="47" alt="Node.js logo" />
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=express" height="47" alt="Express.js logo" />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=spring" height="47" alt="Spring Framework logo" />
-  <img width="15" />
 <!-- Databases -->
-  <img src="https://skillicons.dev/icons?i=mysql" height="47" alt="MySQL logo" />
-  <img width="15" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="47" alt="MongoDB logo" />
   <img width="15" />
 <!-- Tools & Platforms -->
   <img src="https://skillicons.dev/icons?i=docker" height="47" alt="Docker logo" />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=git" height="47" alt="Git logo" />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=postman" height="47" alt="Postman logo" />
-  <img width="15" />
-<!-- Editors / IDEs -->
-  <img src="https://skillicons.dev/icons?i=vim" height="47" alt="Vim logo" />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=idea" height="47" alt="IntelliJ IDEA logo" />
   <img width="15" />
 </div>
 <br clear="both">
