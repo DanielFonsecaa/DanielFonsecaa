@@ -80,7 +80,8 @@
 
 <h3 align="center">🚀 My Projects at 42 Porto</h3>
 
-![42 Badge](https://badge42-backend.onrender.com/api/badge/darkblue/dda-fons?gifUrl=https://badge42-f.vercel.app/akira.gif&accent=%23FFFF00&fg=%23FFFF00&titleCol=%23FFFF00&bodyTextColor=%23FFFF00&borderColor=%23FFFF00&shadowColor=%23FFFF00&borderWidth=3)
+[![42 Badge](https://badge42-backend.onrender.com/api/badge/darkblue/dda-fons?gifUrl=https%3A%2F%2Fbadge-umber.vercel.app%2Fbike.gif&accent=%23FFFF00&fg=%23FFFF00&titleCol=%23FFFF00&bodyTextColor=%23FFFFFF&borderColor=%23FFFF00&shadowColor=%23798B10&shadowSize=40&borderWidth=4&bgColor=%230A0F24)](https://github.com/dda-fons)
+
 
 <h4 align="center">Milestone 0</h4>
 
