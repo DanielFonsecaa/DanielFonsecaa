@@ -135,6 +135,15 @@
   </a>
 </div>
 
+<h4 align="center">Milestone 4</h4>
+<div align="center">
+  <a href="https://github.com/DanielFonsecaa/Cub-3d" target="_blank">
+	<img width="150" height="150" alt="cub3dm" src="https://github.com/user-attachments/assets/617798c7-8fcc-472f-a1fb-77a7a8b46df2" />
+  </a>
+</div>
+
+
+
 <br>
 
 <details align="center">
