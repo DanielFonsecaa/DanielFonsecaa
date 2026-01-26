@@ -165,36 +165,27 @@
 <h3 align="center">C PROJECTS</h3>
 <div align="center">
 	
-| C Project                                                                                     | Grade                                                             | Evaluation Information           |
-| :-------------------------------------------------------------------------------------------- | :---------------------------------------------------------------- | :------------------------------- |
-| [Libft](https://github.com/DanielFonsecaa/libft) | <img src="https://img.shields.io/badge/125%20%2F%20100%20%E2%98%85-sucess"/>  | `3 peers` `30 mins` `moulinette` |
-| [GetNexLine](https://github.com/DanielFonsecaa/get_next_line) | <img src="https://img.shields.io/badge/112%20%2F%20100%20%E2%98%85-sucess"/>  | `3 peers` `30 mins` `moulinette` |
-| [Printf](https://github.com/DanielFonsecaa/printf) | <img src="https://img.shields.io/badge/100%20%2F%20100%20%E2%98%85-sucess"/>  | `3 peers` `30 mins` `moulinette` |
-| [Born2BeRoot](https://github.com/DanielFonsecaa/Born2BeRoot) | <img src="https://img.shields.io/badge/100%20%2F%20100%20%E2%98%85-sucess"/>  | `3 peers` `1 hour` |
-| [So_long](https://github.com/DanielFonsecaa/So-long-42) | <img src="https://img.shields.io/badge/124%20%2F%20100%20%E2%98%85-sucess"/>  | `3 peers` `30 mins`  |
-| [Push_Swap](https://github.com/DanielFonsecaa/Push_swap-42) | <img src="https://img.shields.io/badge/84%20%2F%20100%20%E2%98%85-sucess"/>  | `3 peers` `30 mins`  |
-| [Pipex](https://github.com/DanielFonsecaa/Pipex-42) | <img src="https://img.shields.io/badge/125%20%2F%20100%20%E2%98%85-sucess"/>  | `3 peers` `30 mins`  |
-| [Minishell](https://github.com/DanielFonsecaa/Mini-Shell-42) | <img src="https://img.shields.io/badge/100%20%2F%20100%20%E2%98%85-sucess"/>  | `3 peers` `1 hour`  |
-| [Philosophers](https://github.com/DanielFonsecaa/Philosophers-42) | <img src="https://img.shields.io/badge/100%20%2F%20100%20%E2%98%85-sucess"/>  | `3 peers` `30 mins`  |
+| Project link | Tools | Notions | Description |
+|---|---|---|---|
+| **RANK 05** |||||
+| [**C++ Modules**](https://github.com/DanielFonsecaa/CPP) | C++ (C++98), Makefile | Object-Oriented Programming (OOP), Classes, Encapsulation, Inheritance, Polymorphism, Operator Overloading, Templates, Exceptions | A set of projects designed to introduce modern C++ fundamentals while following the **C++98 standard**. Focuses on writing clean, modular, and reusable code using OOP principles. |
+| **RANK 04** |||||
+| [**C++ Modules**](https://github.com/DanielFonsecaa/CPP) | C++ (C++98), Makefile | Object-Oriented Programming (OOP), Classes, Encapsulation, Inheritance, Polymorphism, Operator Overloading, Templates, Exceptions | A set of projects designed to introduce modern C++ fundamentals while following the **C++98 standard**. Focuses on writing clean, modular, and reusable code using OOP principles. |
+| [**cub3D**](https://github.com/DanielFonsecaa/Cub-3d) | C, MiniLibX, Makefile | Raycasting, 2D map parsing, Textures, Rendering pipeline, Game loop, Input handling | A **Wolfenstein 3D-inspired** project where a raycasting engine was built to simulate a 3D view inside a maze. Includes textured walls, player movement, collision handling, and real-time rendering using MiniLibX. |
+| **RANK 03** |||||
+| [**minishell**](https://github.com/DanielFonsecaa/Mini-Shell-42) | C, Makefile | Parsing & Tokenization, AST basics, UNIX processes, Pipes & Redirections, File Descriptors, Signals, Environment variables | A simplified version of **Bash**, implementing command execution, pipelines, redirections, heredoc, and built-in commands. Focuses heavily on process management and shell parsing logic. |
+| [**philosophers**](https://github.com/DanielFonsecaa/Philosophers-42) | C, Makefile | Concurrency, Multithreading, Race conditions, Mutexes, Deadlocks, Timing & synchronization | Implementation of the classic **Dining Philosophers Problem**, focusing on thread synchronization, avoiding deadlocks, and handling shared resources safely using mutexes. |
+| **RANK 02** |||||
+| [**pipex**](https://github.com/DanielFonsecaa/Pipex-42) | C, Makefile | UNIX processes, Pipes, Fork/Exec, File Descriptors, Redirections, PATH handling | A project that recreates shell pipe behavior (similar to `cmd1 \| cmd2`) using low-level UNIX system calls, focusing on process creation, piping, and I/O redirection. |
+| [**so_long**](https://github.com/DanielFonsecaa/So-long-42) | C, MiniLibX, Makefile | 2D Graphics, Map validation, Sprites & textures, Event hooks, Game loop | A small **2D dungeon-style game** built using MiniLibX. Includes map parsing/validation, player movement, collectibles, and win conditions. |
+| [**push_swap**](https://github.com/DanielFonsecaa/Push_swap-42) | C, Makefile | Sorting algorithms, Complexity optimization, Data structures (stacks), Greedy strategies | Sorting a stack using a restricted set of operations while minimizing the total number of moves. Focuses on algorithmic optimization and efficient sorting strategies. |
+| **RANK 01** |||||
+| [**Born2BeRoot**](https://github.com/DanielFonsecaa/Born2BeRoot) | Debian Linux, VirtualBox, Bash, UFW, SSH | System administration, Virtualization, Users & permissions, Networking, Security hardening | A system administration project focused on setting up a secure Linux VM with strict configuration rules, including user management, firewall setup, SSH configuration, and basic monitoring. |
+| [**get_next_line**](https://github.com/DanielFonsecaa/get_next_line) | C, Makefile | File Descriptors, Static variables, Buffered reading, Memory management | Implementation of a function that reads a file **line by line**, supporting multiple file descriptors and handling partial reads efficiently while ensuring proper memory management. |
+| [**ft_printf**](https://github.com/DanielFonsecaa/printf) | C, Makefile | Variadic functions, Format parsing, Buffering, Output formatting | Re-implementation of the `printf()` function, handling format specifiers, flags, and type conversions while practicing variadic arguments and structured parsing. |
+| **RANK 00** |||||
+| [**libft**](https://github.com/DanielFonsecaa/libft) | C, Makefile | Static libraries, Rebuilding libc functions, Memory & string handling | A custom **C utility library** recreating essential standard library functions and extra helpers, used as the foundation for many later 42 projects. |
 
-</div>
-
-<h3 align="center">PISCINE PROJECTS</h3>
-<div align="center">
-
-| C Pscine Project                                                                                     | Grade                                                             | Evaluation Information           |
-| :-------------------------------------------------------------------------------------------- | :---------------------------------------------------------------- | :------------------------------- |
-| [Piscine C 00](https://github.com/DanielFonsecaa/42piscine) | <img src="https://img.shields.io/badge/85%20%2F%20100-success"/>  | `2 peers` `15 mins` `moulinette` |
-| [Piscine C 01](https://github.com/DanielFonsecaa/42piscine) | <img src="https://img.shields.io/badge/100%20%2F%20100-success"/> | `2 peers` `15 mins` `moulinette` |
-| [Piscine C 02](https://github.com/DanielFonsecaa/42piscine) | <img src="https://img.shields.io/badge/75%20%2F%20100-success"/>  | `2 peers` `15 mins` `moulinette` |
-| [Piscine C 03](https://github.com/DanielFonsecaa/42piscine) | <img src="https://img.shields.io/badge/75%20%2F%20100-success"/> | `2 peers` `15 mins` `moulinette` |
-| [Piscine C 04](https://github.com/DanielFonsecaa/42piscine) | <img src="https://img.shields.io/badge/100%20%2F%20100-success"/>  | `2 peers` `15 mins` `moulinette` |
-| [Piscine C 05](https://github.com/DanielFonsecaa/42piscine) | <img src="https://img.shields.io/badge/80%20%2F%20100-success"/>  | `2 peers` `15 mins` `moulinette` |
-| [Piscine C 06](https://github.com/DanielFonsecaa/42piscine) | <img src="https://img.shields.io/badge/100%20%2F%20100-success"/> | `2 peers` `15 mins` `moulinette` |
-| [Piscine C 07](https://github.com/DanielFonsecaa/42piscine) | <img src="https://img.shields.io/badge/80%20%2F%20100-success"/>  | `2 peers` `15 mins` `moulinette` |
-| [Piscine C 08](https://github.com/DanielFonsecaa/42piscine) | <img src="https://img.shields.io/badge/100%20%2F%20100-success"/> | `2 peers` `15 mins` `moulinette` |
-
-</div>
 	
 </details>
 
