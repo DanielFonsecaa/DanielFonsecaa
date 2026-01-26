@@ -1,6 +1,7 @@
 <img width="100%" alt="banner" src="https://github.com/user-attachments/assets/71fdb8cc-5e94-47b4-8d26-01a9494220cb" />
 
 ## About Me
+
 <p>
 	
 I’m a **42 Porto student** focused on real-world, project-based learning.
@@ -13,27 +14,27 @@ From low-level programming in **C/C++** to full-stack development with **JavaScr
 
 <div align="">
   <img src="https://skillicons.dev/icons?i=c" height="47" alt="C logo" />
-    <img width="15" />
-    <img src="https://skillicons.dev/icons?i=cpp" height="47" alt="C logo" />
-  <img width="15" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="47" alt="C++ logo" />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=java" height="47" alt="Java logo" />
-  <img width="15" />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=js" height="47" alt="JavaScript logo" />
-  <img width="15" />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=ts" height="47" alt="TypeScript logo" />
-  <img width="15" />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=html" height="47" alt="HTML logo" />
-  <img width="15" />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=css" height="47" alt="CSS logo" />
-  <img width="15" />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="47" alt="TailwindCSS logo" />
-  <img width="15" />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=react" height="47" alt="React logo" />
-  <img width="15" />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="47" alt="Node.js logo" />
-  <img width="15" />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="47" alt="MongoDB logo" />
-  <img width="15" />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=docker" height="47" alt="Docker logo" />
 </div>
 
