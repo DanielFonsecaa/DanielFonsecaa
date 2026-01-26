@@ -72,24 +72,24 @@ From low-level programming in **C/C++** to full-stack development with **JavaScr
 
    </tr>
    <tr>
-      <td>✅ <a href="https://github.com/DanielFonsecaa/libft">Libft</a></td>
+      <td>✅ <a href="https://github.com/DanielFonsecaa/libft" target="_blank">Libft</a></td>
       <td>
-        ✅ <a href="https://github.com/DanielFonsecaa/printf">ft_printf</a><br />
-        ✅ <a href="https://github.com/DanielFonsecaa/get_next_line">get_next_line</a><br />
-        ✅ <a href="https://github.com/DanielFonsecaa/Born2BeRoot">Born2BeRoot</a>
+        ✅ <a href="https://github.com/DanielFonsecaa/printf" target="_blank">Ft_Printf</a><br />
+        ✅ <a href="https://github.com/DanielFonsecaa/get_next_line" target="_blank">Get_next_line</a><br />
+        ✅ <a href="https://github.com/DanielFonsecaa/Born2BeRoot" target="_blank">Born2BeRoot</a>
       </td>
       <td>
-        ✅ <a href="https://github.com/DanielFonsecaa/So-long-42">so_long</a><br />
-        ✅ <a href="https://github.com/DanielFonsecaa/Push_swap-42">push_swap</a><br />
-        ✅ <a href="https://github.com/DanielFonsecaa/Pipex-42">pipex</a>
+        ✅ <a href="https://github.com/DanielFonsecaa/So-long-42" target="_blank">So_long</a><br />
+        ✅ <a href="https://github.com/DanielFonsecaa/Push_swap-42" target="_blank">Push_swap</a><br />
+        ✅ <a href="https://github.com/DanielFonsecaa/Pipex-42" target="_blank">Pipex</a>
       </td>
       <td>
-        ✅ <a href="https://github.com/DanielFonsecaa/Philosophers-42">philosophers</a><br />
-        ✅ <a href="https://github.com/DanielFonsecaa/Mini-Shell-42">minishell</a>
+        ✅ <a href="https://github.com/DanielFonsecaa/Philosophers-42" target="_blank">Philosophers</a><br />
+        ✅ <a href="https://github.com/DanielFonsecaa/Mini-Shell-42" target="_blank">Minishell</a>
       </td>
       <td>
-        ✅ <a href="https://github.com/DanielFonsecaa/Cub-3d">cub3D</a><br />
-        ✅ <a href="https://github.com/DanielFonsecaa/CPP">C++ Modules (00 → 04)</a>
+        ✅ <a href="https://github.com/DanielFonsecaa/Cub-3d" target="_blank">Cub3D</a><br />
+        ✅ <a href="https://github.com/DanielFonsecaa/CPP" target="_blank">C++ Modules (00 → 04)</a>
       </td>
     </tr>
   </table>
@@ -100,19 +100,19 @@ From low-level programming in **C/C++** to full-stack development with **JavaScr
 		<th><b>Milestone 6</b></th>
 	</tr>
    <td>
-        ✅ <a href="https://github.com/DanielFonsecaa/CPP">C++ Module 05</a><br />
-        ✅ <a href="https://github.com/DanielFonsecaa/CPP">C++ Module 06</a><br />
-        🚧 <a href="https://github.com/DanielFonsecaa/CPP"><b>C++ Module 07 (Current)</b></a><br />
-        ⬜ <a href="https://github.com/DanielFonsecaa/CPP">C++ Module 08</a><br />
-        ⬜ <a href="https://github.com/DanielFonsecaa/CPP">C++ Module 09</a><br />
+        ✅ <a href="https://github.com/DanielFonsecaa/CPP" target="_blank">C++ Module 05</a><br />
+        ✅ <a href="https://github.com/DanielFonsecaa/CPP" target="_blank">C++ Module 06</a><br />
+        🚧 <a href="https://github.com/DanielFonsecaa/CPP" target="_blank"><b>C++ Module 07 (Current)</b></a><br />
+        ⬜ <a href="https://github.com/DanielFonsecaa/CPP" target="_blank">C++ Module 08</a><br />
+        ⬜ <a href="https://github.com/DanielFonsecaa/CPP" target="_blank">C++ Module 09</a><br />
         ⬜ Webserv<br />
         ⬜ Inception
       </td>
-      <td>⬜ ft_transcendence</td>
+      <td>⬜ Ft_transcendence</td>
    
 </table>
 
-> 📌 Click [here](https://github.com/DanielFonsecaa/42-Portfolio) to see more information about my 42 projects
+> 📌 Click <a href="https://github.com/DanielFonsecaa/42-Portfolio" target="_blank">here</a> to see more information about my 42 projects.</p>
 
 </div>
 <br />
