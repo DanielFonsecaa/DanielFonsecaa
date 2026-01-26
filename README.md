@@ -49,14 +49,9 @@ From low-level programming in **C/C++** to full-stack development with **JavaScr
 <br />
 
 <div align="center">
-  <img src="https://github-trophies.vercel.app/?username=danielfonsecaa&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=1" alt="trophies" />
+  <img src="https://github-trophies.vercel.app/?username=danielfonsecaa&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="trophies" />
 </div>
 
-<div align="center">
-  <img src="https://github-trophies.vercel.app/?username=danielfonsecaa&theme=radical" width="900" alt="trophies" />
-</div>
-
-![](https://github-trophies.vercel.app/?username=danielfonsecaa)
 
 <br />
 
