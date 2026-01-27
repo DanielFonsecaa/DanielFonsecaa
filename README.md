@@ -12,7 +12,7 @@ From low-level programming in **C/C++** to full-stack development with **JavaScr
 
 ## My Tech Stack
 
-<div align="">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=c" height="47" alt="C logo" />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=cpp" height="47" alt="C++ logo" />
@@ -56,6 +56,8 @@ From low-level programming in **C/C++** to full-stack development with **JavaScr
 <br />
 
 ## 42 Porto
+
+> 📌 Click <a href="https://github.com/DanielFonsecaa/42-Portfolio" target="_blank">here</a> to see more information about my 42 projects.</p>
 
 ### Milestones Overview
 
@@ -111,8 +113,6 @@ From low-level programming in **C/C++** to full-stack development with **JavaScr
       <td>⬜ Ft_transcendence</td>
    
 </table>
-
-> 📌 Click <a href="https://github.com/DanielFonsecaa/42-Portfolio" target="_blank">here</a> to see more information about my 42 projects.</p>
 
 </div>
 <br />
