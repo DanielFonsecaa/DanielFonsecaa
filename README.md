@@ -3,11 +3,10 @@
 ## About Me
 
 <p>
-	
-I’m a **42 Porto student** focused on real-world, project-based learning.
-From low-level programming in **C/C++** to full-stack development with **JavaScript, React, Node.js**, and **Java**.
+I’m a <strong>42 Porto student</strong> focused on real-world, project-based learning
+from low-level programming in <strong>C/C++</strong> to full-stack development with 
+<strong>JavaScript, React, Node.js</strong>, and <strong>Java</strong>.
 </p>
-
 <br />
 
 ## My Tech Stack
@@ -104,9 +103,9 @@ From low-level programming in **C/C++** to full-stack development with **JavaScr
    <td>
         ✅ <a href="https://github.com/DanielFonsecaa/CPP" target="_blank">C++ Module 05</a><br />
         ✅ <a href="https://github.com/DanielFonsecaa/CPP" target="_blank">C++ Module 06</a><br />
-        🚧 <a href="https://github.com/DanielFonsecaa/CPP" target="_blank"><b>C++ Module 07 (Current)</b></a><br />
-        ⬜ <a href="https://github.com/DanielFonsecaa/CPP" target="_blank">C++ Module 08</a><br />
-        ⬜ <a href="https://github.com/DanielFonsecaa/CPP" target="_blank">C++ Module 09</a><br />
+        ✅ <a href="https://github.com/DanielFonsecaa/CPP" target="_blank"><b>C++ Module 07 (Current)</b></a><br />
+        ✅ <a href="https://github.com/DanielFonsecaa/CPP" target="_blank">C++ Module 08</a><br />
+        🚧 <a href="https://github.com/DanielFonsecaa/CPP" target="_blank">C++ Module 09</a><br />
         ⬜ Webserv<br />
         ⬜ Inception
       </td>
