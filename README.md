@@ -42,15 +42,8 @@ from low-level programming in <strong>C/C++</strong> to full-stack development w
 <br />
 
 <div align="center">
-  <img height="155" src="https://github-readme-stats.vercel.app/api?username=danielfonsecaa&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true" alt="stats" />
-  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs?username=danielfonsecaa&layout=compact&langs_count=6&theme=radical&hide_border=true" alt="top languages" />
-</div>
-<br />
-
-<div align="center">
   <img src="https://github-trophies.vercel.app/?username=danielfonsecaa&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="trophies" />
 </div>
-
 
 <br />
 
