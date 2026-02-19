@@ -54,59 +54,76 @@ from low-level programming in <strong>C/C++</strong> to full-stack development w
 ### Milestones Overview
 
 <br />
-
-<div align="center">
-  <table>
+<div align="center">	
+  <table style="border-collapse: collapse; width: 80%;">
     <tr>
-      <th><b>Milestone 0</b></th>
-      <th><b>Milestone 1</b></th>
-      <th><b>Milestone 2</b></th>
-      <th><b>Milestone 3</b></th>
-      <th><b>Milestone 4</b></th>
-
-   </tr>
-   <tr>
-      <td>✅ <a href="https://github.com/DanielFonsecaa/libft" target="_blank">Libft</a></td>
-      <td>
-        ✅ <a href="https://github.com/DanielFonsecaa/printf" target="_blank">Ft_Printf</a><br />
-        ✅ <a href="https://github.com/DanielFonsecaa/get_next_line" target="_blank">Get_next_line</a><br />
+      <th style="width: 120px; padding: 8px; border-bottom: 2px solid #000; text-align: left;">Milestone</th>
+      <th style="width: 200px; padding: 8px; border-bottom: 2px solid #000; text-align: left;">Progress</th>
+      <th style="width: 400px; padding: 8px; border-bottom: 2px solid #000; text-align: center;">Projects</th>
+    </tr>
+    <tr>
+      <td style="padding: 8px; text-align: left;">Milestone 0</td>
+      <td style="padding: 8px; text-align: left;">🟩🟩🟩🟩🟩 100%</td>
+      <td style="padding: 8px; text-align: center;">
+        ✅ <a href="https://github.com/DanielFonsecaa/libft" target="_blank">Libft</a>
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; text-align: left;">Milestone 1</td>
+      <td style="padding: 8px; text-align: left;">🟩🟩🟩🟩🟩 100%</td>
+      <td style="padding: 8px; text-align: center;">
+        ✅ <a href="https://github.com/DanielFonsecaa/printf" target="_blank">Ft_Printf</a>
+        ✅ <a href="https://github.com/DanielFonsecaa/get_next_line" target="_blank">Get_next_line</a> 
         ✅ <a href="https://github.com/DanielFonsecaa/Born2BeRoot" target="_blank">Born2BeRoot</a>
       </td>
-      <td>
-        ✅ <a href="https://github.com/DanielFonsecaa/So-long-42" target="_blank">So_long</a><br />
-        ✅ <a href="https://github.com/DanielFonsecaa/Push_swap-42" target="_blank">Push_swap</a><br />
+    </tr>
+    <tr>
+      <td style="padding: 8px; text-align: left;">Milestone 2</td>
+      <td style="padding: 8px; text-align: left;">🟩🟩🟩🟩🟩 100%</td>
+      <td style="padding: 8px; text-align: center;">
+        ✅ <a href="https://github.com/DanielFonsecaa/So-long-42" target="_blank">So_long</a> 
+        ✅ <a href="https://github.com/DanielFonsecaa/Push_swap-42" target="_blank">Push_swap</a> 
         ✅ <a href="https://github.com/DanielFonsecaa/Pipex-42" target="_blank">Pipex</a>
       </td>
-      <td>
-        ✅ <a href="https://github.com/DanielFonsecaa/Philosophers-42" target="_blank">Philosophers</a><br />
+    </tr>
+    <tr>
+      <td style="padding: 8px; text-align: left;">Milestone 3</td>
+      <td style="padding: 8px; text-align: left;">🟩🟩🟩🟩🟩 100%</td>
+      <td style="padding: 8px; text-align: center;">
+        ✅ <a href="https://github.com/DanielFonsecaa/Philosophers-42" target="_blank">Philosophers</a> 
         ✅ <a href="https://github.com/DanielFonsecaa/Mini-Shell-42" target="_blank">Minishell</a>
       </td>
-      <td>
-        ✅ <a href="https://github.com/DanielFonsecaa/Cub-3d" target="_blank">Cub3D</a><br />
+    </tr>
+    <tr>
+      <td style="padding: 8px; text-align: left;">Milestone 4</td>
+      <td style="padding: 8px; text-align: left;">🟩🟩🟩🟩🟩 100%</td>
+      <td style="padding: 8px; text-align: center;">
+        ✅ <a href="https://github.com/DanielFonsecaa/Cub-3d" target="_blank">Cub3D</a> 
         ✅ <a href="https://github.com/DanielFonsecaa/CPP" target="_blank">C++ Modules (00 → 04)</a>
       </td>
     </tr>
-  </table>
-
-<table>
-	<tr>
-		<th><b>Milestone 5</b></th>
-		<th><b>Milestone 6</b></th>
-	</tr>
-   <td>
-        ✅ <a href="https://github.com/DanielFonsecaa/CPP" target="_blank">C++ Module 05</a><br />
-        ✅ <a href="https://github.com/DanielFonsecaa/CPP" target="_blank">C++ Module 06</a><br />
-        ✅ <a href="https://github.com/DanielFonsecaa/CPP" target="_blank"><b>C++ Module 07 (Current)</b></a><br />
-        ✅ <a href="https://github.com/DanielFonsecaa/CPP" target="_blank">C++ Module 08</a><br />
-        🚧 <a href="https://github.com/DanielFonsecaa/CPP" target="_blank">C++ Module 09</a><br />
-        ⬜ Webserv<br />
-        ⬜ Inception
+    <tr>
+      <td style="padding: 8px; text-align: left;">Milestone 5</td>
+      <td style="padding: 8px; text-align: left;">🟩🟩⬜⬜⬜ &nbsp;40%</td>
+      <td style="padding: 8px; text-align: center;">
+        ✅ <a href="https://github.com/DanielFonsecaa/CPP" target="_blank">C++ Modules (05 → 08)</a>
+        🟨 <a href="https://github.com/DanielFonsecaa/CPP" target="_blank">C++ Module 09</a> 
+        ⬜ Webserv, ⬜ Inception
       </td>
-      <td>⬜ Ft_transcendence</td>
-   
-</table>
-
+    </tr>
+    <tr>
+      <td style="padding: 8px; text-align: left;">Milestone 6</td>
+      <td style="padding: 8px; text-align: left;">⬜⬜⬜⬜⬜ &nbsp;&nbsp;0%</td>
+      <td style="padding: 8px; text-align: center;">
+        ⬜ Ft_transcendence
+      </td>
+    </tr>
+  </table>
 </div>
+
+
+
+
 <br />
 
 <div align="center">
