@@ -104,10 +104,9 @@ from low-level programming in <strong>C/C++</strong> to full-stack development w
     </tr>
     <tr>
       <td style="padding: 8px; text-align: left;">Milestone 5</td>
-      <td style="padding: 8px; text-align: left;">🟩🟩⬜⬜⬜ &nbsp;40%</td>
+      <td style="padding: 8px; text-align: left;">🟩🟩🟩⬜⬜ &nbsp;60%</td>
       <td style="padding: 8px; text-align: center;">
-        ✅ <a href="https://github.com/DanielFonsecaa/CPP" target="_blank">C++ Modules (05 → 08)</a>
-        🟨 <a href="https://github.com/DanielFonsecaa/CPP" target="_blank">C++ Module 09</a> 
+        ✅ <a href="https://github.com/DanielFonsecaa/CPP" target="_blank">C++ Modules (05 → 09)</a>
         ⬜ Webserv, ⬜ Inception
       </td>
     </tr>
