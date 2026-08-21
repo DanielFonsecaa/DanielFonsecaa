@@ -107,14 +107,15 @@ from low-level programming in <strong>C/C++</strong> to full-stack development w
       <td style="padding: 8px; text-align: left;">🟩🟩🟩🟩🟩 100%</td>
       <td style="padding: 8px; text-align: center;">
         ✅ <a href="https://github.com/DanielFonsecaa/CPP" target="_blank">C++ Modules (05 → 09)</a>
-        ✅ <a href="https://github.com/DanielFonsecaa/webserv/" target="_blank">WebServer</a> ✅ Inception
+        ✅ <a href="https://github.com/DanielFonsecaa/WebServer/" target="_blank">WebServer</a> 
+        ✅ <a href ="https://github.com/DanielFonsecaa/Inception-42" target="_blank">Inception</a> 
       </td>
     </tr>
     <tr>
       <td style="padding: 8px; text-align: left;">Milestone 6</td>
-      <td style="padding: 8px; text-align: left;">⬜⬜⬜⬜⬜ &nbsp;&nbsp;0%</td>
+      <td style="padding: 8px; text-align: left;">🟩⬜⬜⬜⬜ &nbsp;&nbsp;20%</td>
       <td style="padding: 8px; text-align: center;">
-        ⬜ Ft_transcendence
+        ⬜ <a href ="https://github.com/feazeved/ft_transcendence" target="_blank">Ft_transcendence</a> 
       </td>
     </tr>
   </table>
