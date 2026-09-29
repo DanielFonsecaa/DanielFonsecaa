@@ -113,9 +113,9 @@ from low-level programming in <strong>C/C++</strong> to full-stack development w
     </tr>
     <tr>
       <td style="padding: 8px; text-align: left;">Milestone 6</td>
-      <td style="padding: 8px; text-align: left;">🟩⬜⬜⬜⬜ &nbsp;&nbsp;20%</td>
+      <td style="padding: 8px; text-align: left;">🟩🟩🟩🟩🟩 100%</td>
       <td style="padding: 8px; text-align: center;">
-        ⬜ <a href ="https://github.com/feazeved/ft_transcendence" target="_blank">Ft_transcendence</a> 
+        🟩 <a href ="https://github.com/DanielFonsecaa/Transcendence" target="_blank">Ft_transcendence</a> 
       </td>
     </tr>
   </table>
